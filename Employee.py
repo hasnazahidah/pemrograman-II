@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 29 21:15:17 2021
 
-@author: Bani Yasir
+@author: hasna zahidah
 """
 
 class Employee:
